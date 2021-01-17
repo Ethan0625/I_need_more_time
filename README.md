@@ -1,5 +1,5 @@
 # SSAC X AIFFEL
-***
+
 ## Algorithm
 - **LeetCode**
 > **125, 344 - 21.01.13  
